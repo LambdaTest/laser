@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="9px" viewBox="0 0 24 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>F2Q</title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Transition-Icons" transform="translate(-827.000000, -169.000000)">
+            <g id="F2Q" transform="translate(839.000000, 173.500000) scale(1, -1) translate(-839.000000, -173.500000) translate(827.000000, 169.000000)">
+                <g id="Group" transform="translate(4.714286, 2.500000)" stroke-linecap="round" stroke-width="2">
+                    <g id="Up" transform="translate(3.142857, 1.571429) scale(-1, -1) translate(-3.142857, -1.571429) " stroke="#E65A62">
+                        <path d="M0,3.14285714 L2.55707071,0.585786438 C2.93214346,0.210713681 3.44085129,-3.46650252e-16 3.97128427,0 L6.28571429,0 L6.28571429,0" id="Path" transform="translate(3.142857, 1.571429) scale(1, -1) translate(-3.142857, -1.571429) "></path>
+                    </g>
+                    <g id="Up" transform="translate(8.571429, 2.560927)" stroke="#ffc86b">
+                        <polyline id="Path" points="0 1.29621547 6 1.29621547 6 1.29621547"></polyline>
+                    </g>
+                </g>
+                <circle id="Oval" stroke="#E65A62" stroke-width="1.5" cx="2.5" cy="2.5" r="1.75"></circle>
+                <circle id="Oval" stroke="#ffc86b" stroke-width="1.5" cx="21.5" cy="6.5" r="1.75"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

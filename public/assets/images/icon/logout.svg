@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="17px" viewBox="0 0 15 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logout</title>
+    <g id="New-Sidebar-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Sidebar-5.1" transform="translate(-40.000000, -918.000000)" stroke="#CCCCCC" stroke-width="2">
+            <g id="Logout" transform="translate(41.000000, 919.000000)">
+                <path d="M10,10 L10,8.33333333 C10,6.49238417 8.32106781,5 6.25,5 L-1.25,5 C-3.32106781,5 -5,6.49238417 -5,8.33333333 L-5,10" id="Shape" transform="translate(2.500000, 7.500000) rotate(270.000000) translate(-2.500000, -7.500000) "></path>
+                <path d="M5.625,7.36475183 L10.625,7.36475183" id="Line" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

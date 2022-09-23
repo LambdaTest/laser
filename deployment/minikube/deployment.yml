@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: laser
+  namespace: phoenix
+spec:
+  selector:
+    matchLabels:
+      app: laser
+  template:
+    metadata:
+      labels:
+        app: laser
+    spec:
+      containers:
+        - name: laser
+          image: laser
+          imagePullPolicy: Never
+          ports:
+            - containerPort: 80
+          resources:
+            limits:
+              cpu: 200m
+              memory: 384Mi
+            requests:
+              cpu: 125m
+              memory: 128Mi

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="16px" viewBox="0 0 18 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Failed</title>
+    <g id="5.2-Logs-Task" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.2---Logs-Streaming-(Task-Back-to-Build)" transform="translate(-94.000000, -722.000000)" fill="#FF6565" fill-rule="nonzero">
+            <g id="Failed" transform="translate(94.000000, 722.000000)">
+                <rect id="Rectangle-27" fill-opacity="0.1" x="0" y="0" width="18" height="16" rx="7"></rect>
+                <path d="M11.3883948,5 L12,5.61160523 L9.611,8 L12,10.3883948 L11.3883948,11 L9,8.611 L6.61160523,11 L6,10.3883948 L8.388,8 L6,5.61160523 L6.61160523,5 L9,7.388 L11.3883948,5 Z" id="Line-6" stroke="#FF6565" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

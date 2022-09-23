@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="5px" viewBox="0 0 25 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>B2Q</title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Transition-Icons" transform="translate(-964.000000, -77.000000)">
+            <g id="B2Q" transform="translate(976.500000, 79.500000) scale(-1, 1) translate(-976.500000, -79.500000) translate(964.500000, 77.000000)">
+                <polyline id="Path" stroke="#ffc86b" stroke-width="2" stroke-linecap="round" points="4.5 2.5 10.5 2.5 10.5 2.5"></polyline>
+                <circle id="Oval" stroke="#ffc86b" stroke-width="1.5" cx="2.5" cy="2.5" r="1.75"></circle>
+                <polyline id="Path" stroke="#676D75" stroke-width="2" stroke-linecap="round" points="13.5 2.5 19.5 2.5 19.5 2.5"></polyline>
+                <circle id="Oval" stroke="#676D75" stroke-width="1.5" cx="21.5" cy="2.5" r="1.75"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

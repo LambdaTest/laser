@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Realtime-Browser-Testing---REACT-Drive" transform="translate(-899.000000, -15.000000)" fill="#D8D8D8" fill-rule="nonzero">
+            <g id="Menu" transform="translate(899.000000, 15.000000)">
+                <path d="M11.5227273,0 L17,0 L17,7.72727273 L9.27272727,7.72727273 L9.27272727,2.25 C9.27272727,1.00735931 10.2800866,-2.15819819e-16 11.5227273,-4.4408921e-16 Z" id="Rectangle-20"></path>
+                <path d="M11.5227273,9.27272727 L17,9.27272727 L17,17 L9.27272727,17 L9.27272727,11.5227273 C9.27272727,10.2800866 10.2800866,9.27272727 11.5227273,9.27272727 Z" id="Rectangle-20" transform="translate(13.136364, 13.136364) scale(1, -1) translate(-13.136364, -13.136364) "></path>
+                <path d="M2.25,9.27272727 L7.72727273,9.27272727 L7.72727273,17 L0,17 L-4.4408921e-16,11.5227273 C-5.96268804e-16,10.2800866 1.00735931,9.27272727 2.25,9.27272727 Z" id="Rectangle-20" transform="translate(3.863636, 13.136364) scale(-1, -1) translate(-3.863636, -13.136364) "></path>
+                <path d="M2.25,0 L7.72727273,0 L7.72727273,7.72727273 L0,7.72727273 L-4.4408921e-16,2.25 C-5.96268804e-16,1.00735931 1.00735931,-2.15819819e-16 2.25,-4.4408921e-16 Z" id="Rectangle-20" transform="translate(3.863636, 3.863636) scale(-1, 1) translate(-3.863636, -3.863636) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

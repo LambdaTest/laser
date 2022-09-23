@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="5px" viewBox="0 0 8 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow Down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Community---Profile-Page-Loggedin-User" transform="translate(-543.000000, -998.000000)" fill="#979797" fill-rule="nonzero">
+            <path d="M546.617858,1000.73572 L549.170876,998.182698 C549.414473,997.939101 549.809422,997.939101 550.053018,998.182698 C550.296615,998.426294 550.296615,998.821243 550.053018,999.06484 L546.617858,1002.5 L543.182698,999.06484 C542.939101,998.821243 542.939101,998.426294 543.182698,998.182698 C543.426294,997.939101 543.821243,997.939101 544.06484,998.182698 L546.617858,1000.73572 Z" id="Arrow-Down" transform="translate(546.617858, 1000.250000) scale(-1, 1) translate(-546.617858, -1000.250000) "></path>
+        </g>
+    </g>
+</svg>
